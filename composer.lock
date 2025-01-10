@@ -9173,12 +9173,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/w3c/w3c-website-templates-bundle.git",
-                "reference": "53661474116b158e3d4f1e6eda4539d03fba2d99"
+                "reference": "b85532ffc01268c2b099d70a5491ff7979c72f68"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/w3c/w3c-website-templates-bundle/zipball/53661474116b158e3d4f1e6eda4539d03fba2d99",
-                "reference": "53661474116b158e3d4f1e6eda4539d03fba2d99",
+                "url": "https://api.github.com/repos/w3c/w3c-website-templates-bundle/zipball/b85532ffc01268c2b099d70a5491ff7979c72f68",
+                "reference": "b85532ffc01268c2b099d70a5491ff7979c72f68",
                 "shasum": ""
             },
             "require": {
@@ -9216,7 +9216,7 @@
             "support": {
                 "source": "https://github.com/w3c/w3c-website-templates-bundle/tree/feature/update-logo"
             },
-            "time": "2025-01-10T11:12:29+00:00"
+            "time": "2025-01-10T14:02:49+00:00"
         },
         {
             "name": "webmozart/assert",
