@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5d8620deb3f34f85ce4f75def9a46694",
+    "content-hash": "95f3c63f76373c91ee77e9732359171d",
     "packages": [
         {
             "name": "brick/math",
@@ -9169,16 +9169,16 @@
         },
         {
             "name": "w3c/website-templates-bundle",
-            "version": "dev-main",
+            "version": "dev-feature/update-logo",
             "source": {
                 "type": "git",
                 "url": "https://github.com/w3c/w3c-website-templates-bundle.git",
-                "reference": "6ceae0aead87aa1cb39c946a1d134f7235c401c2"
+                "reference": "53661474116b158e3d4f1e6eda4539d03fba2d99"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/w3c/w3c-website-templates-bundle/zipball/6ceae0aead87aa1cb39c946a1d134f7235c401c2",
-                "reference": "6ceae0aead87aa1cb39c946a1d134f7235c401c2",
+                "url": "https://api.github.com/repos/w3c/w3c-website-templates-bundle/zipball/53661474116b158e3d4f1e6eda4539d03fba2d99",
+                "reference": "53661474116b158e3d4f1e6eda4539d03fba2d99",
                 "shasum": ""
             },
             "require": {
@@ -9201,7 +9201,6 @@
                 "studio24/deployer-recipes": "^v2.1",
                 "studio24/design-system": "dev-main"
             },
-            "default-branch": true,
             "type": "symfony-bundle",
             "autoload": {
                 "psr-4": {
@@ -9215,9 +9214,9 @@
             "description": "W3C Website Templates",
             "homepage": "https://github.com/w3c/w3c-website-templates-bundle",
             "support": {
-                "source": "https://github.com/w3c/w3c-website-templates-bundle/tree/main"
+                "source": "https://github.com/w3c/w3c-website-templates-bundle/tree/feature/update-logo"
             },
-            "time": "2025-01-09T07:30:27+00:00"
+            "time": "2025-01-10T11:12:29+00:00"
         },
         {
             "name": "webmozart/assert",
